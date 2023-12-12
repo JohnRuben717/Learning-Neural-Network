@@ -1,0 +1,5 @@
+Day 1 of Neural Network
+    1. Created inputs from 4 neurons
+    2. Calculated the output by taking the inputs * weight + bias for one neuron
+    3. Bias is the value of the neurons
+    4. created 3 weight and Bias to find value of 3 new Neurons
