@@ -3,3 +3,6 @@ Day 1 of Neural Network
     2. Calculated the output by taking the inputs * weight + bias for one neuron
     3. Bias is the value of the neurons
     4. created 3 weight and Bias to find value of 3 new Neurons
+Day 2 of Neural Network
+    1. Calculated the values with by a new method that uses zip()
+    2. Used numpy to find the dot product of List of List in a single line
